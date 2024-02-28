@@ -2,7 +2,7 @@
 
 *CRUD Inventory App Simple*
 
-1. import crud api database to database management software (optional)
+1. import crud_api.sql to database management software (optional)
 2. turn on the laravel server & php,mysql
 3. register account & login
 4. If the login is successful you will be taken to the dashboard page

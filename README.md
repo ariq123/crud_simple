@@ -1,5 +1,12 @@
 ![Screenshot_2024-02-29_03-21-23](https://github.com/ariq123/crud_simple/assets/62589998/7d42dc42-4dfc-4126-82f6-26a9e97f93f3)
 
+1. import crud api database to database management software (optional)
+2. turn on the laravel server & php,mysql
+3. register account & login
+4. If the login is successful you will be taken to the dashboard page
+
+Notes : You can test a simple api using postman via a local server
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

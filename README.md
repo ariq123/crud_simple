@@ -1,5 +1,7 @@
 ![Screenshot_2024-02-29_03-21-23](https://github.com/ariq123/crud_simple/assets/62589998/7d42dc42-4dfc-4126-82f6-26a9e97f93f3)
 
+*CRUD Inventory App Simple*
+
 1. import crud api database to database management software (optional)
 2. turn on the laravel server & php,mysql
 3. register account & login
